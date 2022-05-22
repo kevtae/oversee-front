@@ -1,0 +1,37 @@
+{
+  "name": "oversee",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ebay/nice-modal-react": "^1.2.5",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.6.2",
+    "@mui/material": "^5.7.0",
+    "@walletconnect/web3-provider": "^1.7.8",
+    "@web3auth/web3auth": "^1.0.0-alpha.0",
+    "axios": "^0.27.2",
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "lodash": "^4.17.21",
+    "magic-sdk": "^8.1.1",
+    "moralis": "^1.7.0",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-flow-renderer": "^10.2.3",
+    "react-moralis": "^1.3.5",
+    "react-virtualized": "^9.22.3",
+    "web3": "^1.7.3"
+  },
+  "devDependencies": {
+    "eslint": "8.15.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
